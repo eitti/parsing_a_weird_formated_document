@@ -20,3 +20,9 @@ The other recommendations were:
 I haven't actually looked at them at all, mostly because I am not familiar with Python and I am not here to learn, but to just solve a personal problem. If I'll strugle with PDFBox, I will give those other options a shot.
 For now though the Apache PDFBox looks promising enough to try.
 
+## 04.08.2024 Another day working on the problem
+
+I found this:
+https://github.com/BobLd/DocumentLayoutAnalysis/blob/master/README.md
+
+This really looks very interesting at first glance. 
